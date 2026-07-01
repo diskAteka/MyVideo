@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная - MyVideo</title>
+    <link rel="stylesheet" href="styles/common.css">
+    <link rel="stylesheet" href="styles/pages/index.css">
+    <link rel="stylesheet" href="styles/icons.css">
+</head>
+<body>
+    <!-- Шапка -->
+    <header class="header">
+        <div class="container">
+            <div class="header__content">
+                <!-- Логотип (без текста, под будущую иконку) -->
+                <a href="index.html" class="logo" aria-label="На главную">
+                    <span class="logo__icon icon"><!-- TODO: иконка логотипа --></span>
+                </a>
+
+                <!-- Поиск -->
+                <div class="search">
+                    <form id="searchForm" class="search__form">
+                        <input type="text"
+                            id="searchInput"
+                            class="search__input"
+                            placeholder="Поиск видео...">
+                        <button type="submit" class="search__btn" aria-label="Найти">
+                            <span class="icon"><!-- TODO: иконка поиска --></span>
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Блок авторизации (рендерится из index.js через renderAuthArea) -->
+                <div class="header__auth"></div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Основной контент -->
+    <main class="main-content">
+        <div class="container">
+            <h1 class="section-title" id="pageTitle">Популярные видео</h1>
+
+            <!-- Сетка видео -->
+            <div id="videosGrid" class="videos-grid">
+                <!-- Видео будут загружаться здесь -->
+            </div>
+
+            <!-- Пустой результат -->
+            <div id="noResults" class="state state--empty">
+                <span class="state__icon icon"><!-- TODO: иконка поиска --></span>
+                <p class="state__title">По вашему запросу ничего не найдено</p>
+                <p class="state__hint">Попробуйте изменить поисковый запрос</p>
+            </div>
+
+            <!-- Индикатор загрузки -->
+            <div id="loadingIndicator" class="state is-visible">
+                <span class="spinner spinner--lg"></span>
+                <p>Загрузка видео...</p>
+            </div>
+        </div>
+    </main>
+
+    <script type="module" src="scripts/pages/index.js"></script>
+</body>
+</html>

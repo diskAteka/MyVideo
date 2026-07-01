@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Регистрация - MyVideo</title>
+    <link rel="stylesheet" href="styles/common.css">
+    <link rel="stylesheet" href="styles/pages/register.css">
+    <link rel="stylesheet" href="styles/icons.css">
+</head>
+<body class="auth-page">
+    <div class="auth-card card">
+        <div class="auth-card__header">
+            <h1 class="auth-card__title">
+                <span class="icon icon--xl"><!-- TODO: иконка логотипа --></span>
+                MyVideo
+            </h1>
+            <p class="auth-card__subtitle">Присоединяйтесь к мировому сообществу видеоконтента</p>
+        </div>
+
+        <div class="auth-card__body">
+            <div id="message" class="alert"></div>
+
+            <form id="registerForm" novalidate>
+                <div class="form-group">
+                    <label class="form-group__label" for="username">Имя пользователя</label>
+                    <div class="input-group">
+                        <span class="input-group__icon icon"><!-- TODO: иконка пользователя --></span>
+                        <input type="text" id="username" name="username" class="input"
+                               placeholder="Введите имя пользователя" required>
+                    </div>
+                    <div class="error-text" id="usernameError"></div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-group__label" for="email">Электронная почта</label>
+                    <div class="input-group">
+                        <span class="input-group__icon icon"><!-- TODO: иконка конверта --></span>
+                        <input type="email" id="email" name="email" class="input"
+                               placeholder="Введите вашу почту" required>
+                    </div>
+                    <div class="error-text" id="emailError"></div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-group__label" for="password">Пароль</label>
+                    <div class="input-group">
+                        <span class="input-group__icon icon"><!-- TODO: иконка замка --></span>
+                        <input type="password" id="password" name="password" class="input"
+                               placeholder="Введите пароль" required>
+                        <button type="button" class="input-group__toggle" id="togglePassword" aria-label="Показать пароль">
+                            <span class="icon"><!-- TODO: иконка глаза --></span>
+                        </button>
+                    </div>
+                    <div class="error-text" id="passwordError"></div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-group__label" for="confirmPassword">Подтверждение пароля</label>
+                    <div class="input-group">
+                        <span class="input-group__icon icon"><!-- TODO: иконка замка --></span>
+                        <input type="password" id="confirmPassword" name="confirmPassword" class="input"
+                               placeholder="Повторите пароль" required>
+                        <button type="button" class="input-group__toggle" id="toggleConfirmPassword" aria-label="Показать пароль">
+                            <span class="icon"><!-- TODO: иконка глаза --></span>
+                        </button>
+                    </div>
+                    <div class="error-text" id="confirmPasswordError"></div>
+                </div>
+
+                <button type="submit" class="btn btn--accent btn--block btn--lg" id="submitBtn">
+                    <span id="btnText">Зарегистрироваться</span>
+                </button>
+            </form>
+
+            <div class="auth-link">
+                Уже есть аккаунт? <a href="login.html">Войти</a>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="scripts/pages/register.js"></script>
+</body>
+</html>

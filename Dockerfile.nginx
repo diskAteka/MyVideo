@@ -1,0 +1,18 @@
+FROM nginx:alpine
+
+# Копируем конфигурацию
+COPY Nginx/conf/nginx.conf /etc/nginx/nginx.conf
+COPY Nginx/conf/mime.types /etc/nginx/mime.types
+
+# Копируем SSL сертификаты
+COPY Nginx/conf/ssl/ /etc/nginx/ssl/
+
+# Копируем фронтенд (теперь путь от корня проекта)
+COPY frontend/dist/ /usr/share/nginx/html/frontend/
+
+# Создаём директории для логов
+RUN mkdir -p /var/log/nginx
+
+EXPOSE 80 443
+
+CMD ["nginx", "-g", "daemon off;"]

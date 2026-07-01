@@ -1,0 +1,26 @@
+﻿/* ============================================
+   PAGE: login
+   Использует общие .auth-page и .auth-card
+   ============================================ */
+
+/* Футер карточки со ссылками */
+.auth-card__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--space-xl);
+  padding-top: var(--space-md);
+  border-top: 1px solid rgba(138, 43, 226, 0.2);
+  font-size: 14px;
+}
+
+.auth-card__footer a {
+  color: var(--color-primary);
+  font-weight: 600;
+  padding: 0 5px;
+  transition: color var(--transition-base);
+}
+
+.auth-card__footer a:hover {
+  color: var(--color-accent);
+}

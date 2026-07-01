@@ -1,0 +1,25 @@
+# Файл: config/garage.toml
+
+metadata_dir = "/garage-data/meta"
+data_dir = "/garage-data/data"
+db_engine = "lmdb"
+
+replication_factor = 1
+
+# ОБЯЗАТЕЛЬНОЕ ПОЛЕ для внутренней коммуникации между узлами
+# Даже если у вас один узел, это поле должно присутствовать
+rpc_bind_addr = "0.0.0.0:3901"
+rpc_secret = "338fb9626e30628e1f0c992448ea3ff2bf8f7a745d668c542aef7c273165d4a5"
+
+# На каком адресе слушать S3 запросы
+[s3_api]
+s3_region = "garage"
+api_bind_addr = "0.0.0.0:3900"
+timezone = "Europe/Moscow"
+
+# Админка
+[admin]
+api_bind_addr = "0.0.0.0:3903"
+admin_token = "89e435430e53fc2f9f8412e22d43a62c143f3e311376385739f8bfe5958fda64"
+
+log_level = "debug"

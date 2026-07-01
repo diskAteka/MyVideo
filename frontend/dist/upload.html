@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Загрузка видео - MyVideo</title>
+    <link rel="stylesheet" href="styles/common.css">
+    <link rel="stylesheet" href="styles/pages/upload.css">
+    <link rel="stylesheet" href="styles/icons.css">
+</head>
+<body>
+    <!-- Шапка -->
+    <header class="header">
+        <div class="container">
+            <div class="header__content">
+                <a href="index.html" class="logo" aria-label="На главную">
+                    <span class="logo__icon icon"><!-- TODO: иконка логотипа --></span>
+                </a>
+
+                <div class="header__actions">
+                    <a href="index.html" class="btn btn--ghost btn--pill">
+                        <span class="icon"><!-- TODO: иконка стрелки влево --></span>
+                        <span>На главную</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <div class="upload-layout">
+
+                <!-- Левая колонка: список моих видео -->
+                <aside class="panel upload-layout__sidebar">
+                    <div class="panel__header">
+                        <h2 class="section-title">
+                            <span class="icon icon--lg"><!-- TODO: иконка плёнки --></span>
+                            Мои видео
+                        </h2>
+                        <span class="badge badge--counter" id="videosCount">0</span>
+                    </div>
+
+                    <!-- Статус загрузки -->
+                    <div class="upload-status__indicator">
+                        <span class="status-dot" id="statusDot"></span>
+                        <span class="status-text" id="statusText">Проверка статуса...</span>
+                    </div>
+                    <div class="info-tooltip">
+                        <span class="icon" id="infoIcon"><!-- TODO: иконка вопроса --></span>
+                        <div class="tooltip-content" id="tooltipContent">
+                            <!-- Текст для разрешённой загрузки -->
+                            <div class="tooltip-content__variant" data-variant="allowed" hidden>
+                                <strong>Вы можете загружать видео</strong>
+                                <p>Но прежде чем видео появится на платформе, оно должно быть верифицировано модераторами. Обычно это занимает до 24 часов.</p>
+                            </div>
+                            <!-- Текст для запрещённой загрузки -->
+                            <div class="tooltip-content__variant" data-variant="blocked" hidden>
+                                <strong>Ограничение на загрузку</strong>
+                                <p>По какой-то причине для вас ограничена возможность загрузки контента. Пожалуйста, свяжитесь с поддержкой для выяснения причин.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Список видео -->
+                    <div class="videos-list" id="videosList">
+                        <!-- Видео загружаются сюда -->
+                    </div>
+
+                    <!-- Индикатор загрузки списка -->
+                    <div class="state is-visible" id="listLoading">
+                        <span class="spinner spinner--lg"></span>
+                        <p>Загрузка ваших видео...</p>
+                    </div>
+                </aside>
+
+                <!-- Правая колонка: форма загрузки -->
+                <section class="panel">
+                    <h2 class="panel__title">
+                        <span class="icon icon--lg"><!-- TODO: иконка облака --></span>
+                        Загрузить новое видео
+                    </h2>
+
+                    <div id="message" class="alert"></div>
+
+                    <form id="uploadForm" class="upload-form" novalidate>
+
+                        <!-- Drag & Drop область -->
+                        <div class="dropzone" id="fileUploadArea">
+                            <input type="file"
+                                   id="videoFile"
+                                   name="videoFile"
+                                   accept=".mp4,video/mp4"
+                                   class="dropzone__input"/>
+                            <div class="dropzone__content">
+                                <span class="dropzone__icon icon"><!-- TODO: иконка видео --></span>
+                                <h3 class="dropzone__title">Выберите видео для загрузки</h3>
+                                <p class="dropzone__text">Нажмите или перетащите файл сюда</p>
+                                <span class="dropzone__hint">MP4 · до 2 GB</span>
+                            </div>
+                            <div class="dropzone__selected" id="fileSelected" hidden>
+                                <span class="icon"><!-- TODO: иконка галочки --></span>
+                                <span id="selectedFileName"></span>
+                                <button type="button" class="dropzone__remove" title="Удалить">
+                                    <span class="icon"><!-- TODO: иконка крестика --></span>
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Название видео -->
+                        <div class="form-group">
+                            <label class="form-group__label" for="videoTitle">
+                                <span class="icon"><!-- TODO: иконка заголовка --></span>
+                                Название видео
+                            </label>
+                            <input type="text"
+                                   id="videoTitle"
+                                   name="title"
+                                   class="input"
+                                   placeholder="Введите название видео"
+                                   maxlength="100"
+                                   required>
+                            <div class="input-hint">Максимум 100 символов</div>
+                        </div>
+
+                        <!-- Описание видео -->
+                        <div class="form-group">
+                            <label class="form-group__label" for="videoDescription">
+                                <span class="icon"><!-- TODO: иконка текста --></span>
+                                Описание
+                            </label>
+                            <textarea id="videoDescription"
+                                      name="description"
+                                      class="textarea"
+                                      placeholder="Введите описание видео (необязательно)"
+                                      maxlength="1000"
+                                      rows="4"></textarea>
+                            <div class="input-hint">Максимум 1000 символов</div>
+                        </div>
+
+                        <!-- Кнопка загрузки -->
+                        <button type="submit" class="btn btn--accent btn--block btn--lg" id="submitBtn" disabled>
+                            <span id="btnText">Загрузить видео</span>
+                        </button>
+
+                        <!-- Прогресс загрузки -->
+                        <div class="upload-progress" id="uploadProgress" hidden>
+                            <div class="upload-progress__bar">
+                                <div class="upload-progress__fill" id="progressFill"></div>
+                            </div>
+                            <div class="upload-progress__info">
+                                <span id="progressPercent">0%</span>
+                                <span id="progressSpeed">0 MB/s</span>
+                            </div>
+                        </div>
+                    </form>
+                </section>
+
+            </div>
+        </div>
+    </main>
+
+    <script type="module" src="scripts/pages/upload.js"></script>
+</body>
+</html>

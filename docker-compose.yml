@@ -1,0 +1,136 @@
+services:
+  nginx:
+    build:
+      context: .
+      dockerfile: Dockerfile.nginx
+    container_name: nginx-frontend
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - mainserver
+    environment:
+      - TZ=Europe/Moscow
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  garage:
+    build:
+      context: ./garage-storage
+      dockerfile: Dockerfile
+    container_name: garage-storage
+    ports:
+      - "3900:3900"
+      - "3901:3901"
+      - "3903:3903"
+    environment:
+      - TZ=Europe/Moscow
+      - GARAGE_TZ=Europe/Moscow
+    volumes:
+      - garage-meta:/garage-data/meta
+      - garage-data:/garage-data/data
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - ./garage-storage/config/garage.toml:/etc/garage.toml
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql-db
+    user: root
+    environment:
+      - TZ=Europe/Moscow
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=${MSSQL_SA_PASSWORD}
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-data:/var/opt/mssql/data
+      - mssql-log:/var/opt/mssql/log
+      - mssql-secrets:/var/opt/mssql/secrets
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    networks:
+      - app-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P '${MSSQL_SA_PASSWORD}' -Q 'SELECT 1' -C"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+
+  mssql-init:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql-init
+    depends_on:
+      mssql:
+        condition: service_healthy
+    environment:
+      - MSSQL_SA_PASSWORD=${MSSQL_SA_PASSWORD}
+    volumes:
+      - ./db/init:/init:ro
+    entrypoint: ["/bin/sh"]
+    command:
+      - -c
+      - |
+        echo "Starting SQL scripts execution..."
+        for file in /init/*.sql; do
+          echo "Executing $$file..."
+          /opt/mssql-tools18/bin/sqlcmd -S mssql -U sa -P $$MSSQL_SA_PASSWORD -i $$file -C -b
+          echo "Done: $$file"
+        done
+        echo "All scripts completed successfully!"
+    networks:
+      - app-network
+    restart: "no"
+
+  mainserver:
+    build:
+      context: ./backend/MainServer
+      dockerfile: Dockerfile
+    container_name: mainserver-backend
+    ports:
+      - "5000:8080"
+    environment:
+      - TZ=Europe/Moscow
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://0.0.0.0:8080
+      - Garage__Endpoint=https://localhost/storage
+      - Garage__AccessKey=${GARAGE_ACCESS_KEY}
+      - Garage__SecretKey=${GARAGE_SECRET_KEY}
+      - Garage__BucketName=video-storage
+      - Garage__VideoPrefix=videos
+      - Garage__PosterPrefix=posters
+      - ConnectionStrings__DefaultConnection=${DB_CONNECTION_STRING}
+    volumes:
+      - temp_videos:/MainServer/temp_videos
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    depends_on:
+      mssql-init:
+        condition: service_completed_successfully
+      garage:
+        condition: service_started
+    networks:
+      - app-network
+    restart: unless-stopped
+
+volumes:
+  temp_videos:
+  garage-meta:
+  garage-data:
+  mssql-data:
+  mssql-log:
+  mssql-secrets:
+
+networks:
+  app-network:
+    driver: bridge

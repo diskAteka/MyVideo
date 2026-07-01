@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная - Видеохостинг</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles/index.css">
+</head>
+<body>
+    <!-- Шапка -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <!-- Логотип -->
+                <a href="index.html" class="logo">
+                    <i class="fas fa-video"></i>
+                    <span>ВидеоХостинг</span>
+                </a>
+
+                <!-- Поиск -->
+                <div class="search-container">
+                    <form id="searchForm" class="search-form">
+                        <input type="text"
+                               id="searchInput"
+                               class="search-input"
+                               placeholder="Поиск видео...">
+                        <button type="submit" class="search-btn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Блок авторизации -->
+                <div class="auth-container">
+                    <button id="authBtn" class="auth-btn">
+                        Войти в аккаунт
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Основной контент -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Заголовок -->
+            <h1 class="section-title" id="pageTitle">Популярные видео</h1>
+
+            <!-- Сетка видео -->
+            <div id="videosGrid" class="videos-grid">
+                <!-- Видео будут загружаться здесь -->
+            </div>
+
+            <!-- Сообщение при пустом поиске -->
+            <div id="noResults" class="no-results">
+                <i class="fas fa-search"></i>
+                <p>По вашему запросу ничего не найдено</p>
+                <p class="no-results-hint">Попробуйте изменить поисковый запрос</p>
+            </div>
+
+            <!-- Индикатор загрузки -->
+            <div id="loadingIndicator" class="loading">
+                <div class="loading-spinner"></div>
+                <p>Загрузка видео...</p>
+            </div>
+        </div>
+    </main>
+
+    <script src="scripts/config.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html>

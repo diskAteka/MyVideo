@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KP\\MyVideo\\backend\\MainServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\middleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\middleware\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\controllers\\wpfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\controllers\\wpfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\request\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\request\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\\u0421\u0431\u043E\u0440\u0449\u0438\u043A \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\ConsoleApp1\\Temp\\structure.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\services\\forservice\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\services\\forservice\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\enum\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\enum\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\services\\forcontroller\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\services\\forcontroller\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\serverlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\serverlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\models\\dislike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\models\\dislike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\sql\\createdatabase.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\sql\\createdatabase.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\services\\forcontroller\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\services\\forcontroller\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\request\\video\\commentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\request\\video\\commentcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\request\\video\\reactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\request\\video\\reactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\response\\auth\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\response\\auth\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\response\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\response\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\response\\auth\\meresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\response\\auth\\meresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\response\\auth\\logoutresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\response\\auth\\logoutresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\interfaces\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\interfaces\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\request\\video\\videodatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\request\\video\\videodatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|c:\\kp\\myvideo\\backend\\mainserver\\sharedlib\\contracts\\request\\video\\videouploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D639A03-C2DD-438E-8A42-81075CC95FE9}|SharedLib\\SharedLib.csproj|solutionrelative:sharedlib\\contracts\\request\\video\\videouploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|c:\\kp\\myvideo\\backend\\mainserver\\mainserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6071A613-7AE2-4063-A16D-7253014789B9}|MainServer\\MainServer.csproj|solutionrelative:mainserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "MainServer\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "MainServer\\Middleware\\GlobalExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:08:24.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\View.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\View.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\View.cs",
+              "RelativeToolTip": "SharedLib\\Models\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:48:16.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Video.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\Video.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Video.cs",
+              "RelativeToolTip": "SharedLib\\Models\\Video.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:48:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\User.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\User.cs",
+              "RelativeToolTip": "SharedLib\\Models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:47:56.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServerLog.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\ServerLog.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\ServerLog.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\ServerLog.cs",
+              "RelativeToolTip": "SharedLib\\Models\\ServerLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:47:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\Like.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Like.cs",
+              "RelativeToolTip": "SharedLib\\Models\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:47:53.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Request\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Request\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:29:24.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Request\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Request\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:42:13.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "enums.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Enum\\enums.cs",
+              "RelativeDocumentMoniker": "MainServer\\Enum\\enums.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Enum\\enums.cs",
+              "RelativeToolTip": "MainServer\\Enum\\enums.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:52:49.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Services\\ForService\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MainServer\\Services\\ForService\\MappingProfile.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Services\\ForService\\MappingProfile.cs",
+              "RelativeToolTip": "MainServer\\Services\\ForService\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:52:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MainServer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MainServer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAawIEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:47:30.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\Employee.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Employee.cs",
+              "RelativeToolTip": "SharedLib\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:47:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\Comment.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Comment.cs",
+              "RelativeToolTip": "SharedLib\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:47:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dislike.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Dislike.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Models\\Dislike.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Models\\Dislike.cs",
+              "RelativeToolTip": "SharedLib\\Models\\Dislike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:47:22.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateDatabase.txt",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\SQL\\CreateDatabase.txt",
+              "RelativeDocumentMoniker": "SharedLib\\SQL\\CreateDatabase.txt",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\SQL\\CreateDatabase.txt",
+              "RelativeToolTip": "SharedLib\\SQL\\CreateDatabase.txt",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-28T17:46:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Services\\ForController\\VideoService.cs",
+              "RelativeDocumentMoniker": "MainServer\\Services\\ForController\\VideoService.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Services\\ForController\\VideoService.cs",
+              "RelativeToolTip": "MainServer\\Services\\ForController\\VideoService.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAwwLUBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:33:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WPFController.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\WPFController.cs",
+              "RelativeDocumentMoniker": "MainServer\\Controllers\\WPFController.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\WPFController.cs",
+              "RelativeToolTip": "MainServer\\Controllers\\WPFController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwG8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T15:18:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "structure.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\\u0421\u0431\u043E\u0440\u0449\u0438\u043A \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\ConsoleApp1\\Temp\\structure.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\\u0421\u0431\u043E\u0440\u0449\u0438\u043A \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\ConsoleApp1\\Temp\\structure.json",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\\u0421\u0431\u043E\u0440\u0449\u0438\u043A \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\ConsoleApp1\\Temp\\structure.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\\u0421\u0431\u043E\u0440\u0449\u0438\u043A \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\ConsoleApp1\\Temp\\structure.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-28T17:58:33.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReactionRequest.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\ReactionRequest.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Request\\Video\\ReactionRequest.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\ReactionRequest.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Request\\Video\\ReactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:24:24.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MeResponse.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\MeResponse.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Response\\Auth\\MeResponse.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\MeResponse.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Response\\Auth\\MeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T15:01:30.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MainServer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MainServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T15:01:23.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Response\\Auth\\RegisterResponse.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\RegisterResponse.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Response\\Auth\\RegisterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:42:06.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Services\\ForController\\AuthService.cs",
+              "RelativeDocumentMoniker": "MainServer\\Services\\ForController\\AuthService.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Services\\ForController\\AuthService.cs",
+              "RelativeToolTip": "MainServer\\Services\\ForController\\AuthService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAhwGUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T15:02:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "MainServer\\Controllers\\VideoController.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "MainServer\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAASwF4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:42:53.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VideoDataDto.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\VideoDataDto.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Request\\Video\\VideoDataDto.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\VideoDataDto.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Request\\Video\\VideoDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:21:05.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "MainServer\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "MainServer\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T16:34:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VideoUploadRequest.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\VideoUploadRequest.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Request\\Video\\VideoUploadRequest.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\VideoUploadRequest.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Request\\Video\\VideoUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:26:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommentCreateRequest.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\CommentCreateRequest.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Request\\Video\\CommentCreateRequest.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Request\\Video\\CommentCreateRequest.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Request\\Video\\CommentCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:21:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Response\\Auth\\TokenResponse.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\TokenResponse.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Response\\Auth\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T16:33:37.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogoutResponse.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\LogoutResponse.cs",
+              "RelativeDocumentMoniker": "SharedLib\\Contracts\\Response\\Auth\\LogoutResponse.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\SharedLib\\Contracts\\Response\\Auth\\LogoutResponse.cs",
+              "RelativeToolTip": "SharedLib\\Contracts\\Response\\Auth\\LogoutResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:43:45.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IVideoService.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Interfaces\\IVideoService.cs",
+              "RelativeDocumentMoniker": "MainServer\\Interfaces\\IVideoService.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Interfaces\\IVideoService.cs",
+              "RelativeToolTip": "MainServer\\Interfaces\\IVideoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T17:27:24.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Program.cs",
+              "RelativeDocumentMoniker": "MainServer\\Program.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Program.cs",
+              "RelativeToolTip": "MainServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T15:28:20.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "MainServer\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\KP\\MyVideo\\backend\\MainServer\\MainServer\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "MainServer\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T15:27:43.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

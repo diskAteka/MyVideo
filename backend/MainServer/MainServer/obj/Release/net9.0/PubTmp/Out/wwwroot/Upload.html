@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Загрузка видео - Видеохостинг</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles/upload.css">
+</head>
+<body>
+    <!-- Шапка -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <a href="index.html" class="logo">
+                    <i class="fas fa-video"></i>
+                    <span>ВидеоХостинг</span>
+                </a>
+
+                <div class="header-actions">
+                    <a href="index.html" class="back-link">
+                        <i class="fas fa-arrow-left"></i>
+                        <span>На главную</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <div class="upload-layout">
+                <!-- Левая колонка - Список видео пользователя -->
+                <div class="user-videos-section">
+                    <div class="section-header">
+                        <h2 class="section-title">
+                            <i class="fas fa-film"></i>
+                            Мои видео
+                        </h2>
+                        <span class="videos-count" id="videosCount">0</span>
+                    </div>
+
+                    <!-- Индикатор статуса загрузки -->
+                    <div class="upload-status" id="uploadStatus">
+                        <div class="status-indicator">
+                            <span class="status-dot" id="statusDot"></span>
+                            <span class="status-text" id="statusText">Проверка статуса...</span>
+                        </div>
+                        <div class="info-tooltip">
+                            <i class="fas fa-question-circle" id="infoIcon"></i>
+                            <div class="tooltip-content" id="tooltipContent">
+                                <!-- Заполняется JS -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Список видео -->
+                    <div class="videos-list" id="videosList">
+                        <!-- Видео будут загружаться сюда -->
+                    </div>
+
+                    <!-- Индикатор загрузки списка -->
+                    <div class="list-loading" id="listLoading">
+                        <div class="loading-spinner"></div>
+                        <p>Загрузка ваших видео...</p>
+                    </div>
+                </div>
+
+                <!-- Правая колонка - Форма загрузки -->
+                <div class="upload-section">
+                    <div class="upload-container">
+                        <h2 class="upload-title">
+                            <i class="fas fa-cloud-upload-alt"></i>
+                            Загрузить новое видео
+                        </h2>
+
+                        <!-- Сообщения -->
+                        <div id="message" class="message"></div>
+
+                        <!-- Форма загрузки -->
+                        <form id="uploadForm" class="upload-form">
+                            <!-- Область выбора файла -->
+                            <div class="file-upload-area" id="fileUploadArea">
+                                <input type="file"
+                                       id="videoFile"
+                                       name="videoFile"
+                                       accept=".mp4,video/mp4"
+                                       class="file-input"
+                                       required>
+                                <div class="file-upload-content">
+                                    <i class="fas fa-video"></i>
+                                    <h3>Выберите видео для загрузки</h3>
+                                    <p>Нажмите или перетащите файл сюда</p>
+                                    <span class="file-info">Поддерживается только MP4</span>
+                                </div>
+                                <div class="file-selected" id="fileSelected" style="display: none;">
+                                    <i class="fas fa-check-circle"></i>
+                                    <span id="selectedFileName"></span>
+                                    <button type="button" class="remove-file" title="Удалить">
+                                        <i class="fas fa-times"></i>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- Название видео -->
+                            <div class="form-group">
+                                <label for="videoTitle">
+                                    <i class="fas fa-heading"></i>
+                                    Название видео
+                                </label>
+                                <input type="text"
+                                       id="videoTitle"
+                                       name="title"
+                                       class="form-input"
+                                       placeholder="Введите название видео"
+                                       maxlength="100"
+                                       required>
+                                <div class="input-hint">Максимум 100 символов</div>
+                            </div>
+
+                            <!-- Описание видео -->
+                            <div class="form-group">
+                                <label for="videoDescription">
+                                    <i class="fas fa-align-left"></i>
+                                    Описание
+                                </label>
+                                <textarea id="videoDescription"
+                                          name="description"
+                                          class="form-textarea"
+                                          placeholder="Введите описание видео (необязательно)"
+                                          maxlength="1000"
+                                          rows="4"></textarea>
+                                <div class="input-hint">Максимум 1000 символов</div>
+                            </div>
+
+                            <!-- Кнопка загрузки -->
+                            <button type="submit" class="submit-btn" id="submitBtn" disabled>
+                                <span id="btnText">Загрузить видео</span>
+                            </button>
+
+                            <!-- Прогресс загрузки (скрыт по умолчанию) -->
+                            <div class="upload-progress" id="uploadProgress" style="display: none;">
+                                <div class="progress-bar">
+                                    <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                                </div>
+                                <div class="progress-info">
+                                    <span id="progressPercent">0%</span>
+                                    <span id="progressSpeed">0 MB/s</span>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="scripts/config.js"></script>
+    <script src="scripts/upload.js"></script>
+</body>
+</html>

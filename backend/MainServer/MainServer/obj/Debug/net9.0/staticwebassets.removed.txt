@@ -1,0 +1,36 @@
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\scripts\config.js
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\styles\upload.css
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\Upload.html
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\styles\login.css
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\register.html
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\scripts\register.js
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\styles\register.css
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\scripts\login.js
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\scripts\main.js
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\login.html
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\video.html
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\styles\video.css
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\styles\index.css
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\index.html
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\scripts\video.js
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\wwwroot\scripts\upload.js
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\Content\Posters\default.jpg
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\Content\Posters\default.png
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\Content\Posters\images (2).jpg
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\images\images (3).jpg
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\index.html
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\login.html
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\register.html
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\scripts\config.js
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\scripts\login.js
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\scripts\main.js
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\scripts\register.js
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\scripts\upload.js
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\scripts\video.js
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\styles\index.css
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\styles\login.css
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\styles\register.css
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\styles\upload.css
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\styles\video.css
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\Upload.html
+C:\KP\MyVideo\backend\MainServer\MainServer\wwwroot\video.html

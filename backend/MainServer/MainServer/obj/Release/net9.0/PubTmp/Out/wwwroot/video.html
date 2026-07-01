@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Просмотр видео - Видеохостинг</title>
+    <!-- Video.js CSS -->
+    <link href="https://vjs.zencdn.net/8.0.4/video-js.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles/video.css">
+
+</head>
+<body>
+    <!-- Шапка -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <a href="index.html" class="logo-link">
+                    <i>◀️</i>
+                    <span>На главную</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Основной контент -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Сообщения -->
+            <div id="message" class="message"></div>
+
+            <!-- Видеоплеер -->
+            <div class="video-player-container">
+                <video-js id="videoPlayer"
+                          class="video-js vjs-theme-forest vjs-big-play-centered"
+                          controls
+                          preload="auto"
+                          width="100%"
+                          height="400">
+                    <p class="vjs-no-js">
+                        Для просмотра видео включите JavaScript или обновите браузер
+                    </p>
+                </video-js>
+            </div>
+
+            <!-- Информация о видео -->
+            <div class="video-info">
+                <h1 id="videoTitle" class="video-title">Загрузка...</h1>
+
+                <div class="video-meta">
+                    <div class="video-stats">
+                        <div class="video-stat">
+                            <span id="viewsCount">0</span>
+                            <span>просмотров</span>
+                        </div>
+                        <div class="video-stat">
+                            <span id="likesCount">0</span>
+                            <span>лайков</span>
+                        </div>
+                        <div class="video-stat">
+                            <span id="dislikesCount">0</span>
+                            <span>дизлайков</span>
+                        </div>
+                    </div>
+
+                    <div class="like-buttons">
+                        <!-- Добавляем классы для активных состояний -->
+                        <button id="likeBtn" class="like-btn">
+                            <span>👍</span>
+                            <span>Лайк</span>
+                        </button>
+                        <button id="dislikeBtn" class="dislike-btn">
+                            <span>👎</span>
+                            <span>Дизлайк</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Комментарии -->
+            <div class="comments-section">
+                <h2 class="comments-title">
+                    <span>💬</span>
+                    <span id="commentsCount">Комментарии (0)</span>
+                </h2>
+
+                <!-- Форма комментария -->
+                <form id="commentForm" class="comment-form" onsubmit="return false;">
+                    <textarea id="commentInput"
+                              class="comment-input"
+                              placeholder="Добавить комментарий..."
+                              maxlength="1000"></textarea>
+                    <button type="button" id="commentSubmitBtn" class="comment-submit-btn">
+                        Отправить
+                    </button>
+                </form>
+
+                <!-- Список комментариев -->
+                <div id="commentsList" class="comments-list">
+                    <!-- Комментарии будут загружаться здесь -->
+                </div>
+
+                <!-- Индикатор загрузки комментариев -->
+                <div id="commentsLoading" class="loading" style="display: none;">
+                    <div class="loading-spinner"></div>
+                    <p>Загрузка комментариев...</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Video.js скрипт -->
+    <script src="https://vjs.zencdn.net/8.0.4/video.min.js"></script>
+
+    <script src="scripts/config.js"></script>
+    <script src="scripts/video.js"></script>
+</body>
+</html>

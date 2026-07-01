@@ -1,0 +1,560 @@
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\appsettings.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.staticwebassets.runtime.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.staticwebassets.endpoints.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.exe
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.deps.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.pdb
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Azure.Core.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Azure.Identity.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Humanizer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.OpenApi.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.CodeDom.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Convention.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\SharedLib.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\SharedLib.pdb
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.sourcelink.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\scopedcss\bundle\MainServer.styles.css
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\tju3n7uyw7-dtepa7xj0a.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\javxw61p62-9436t5wyyx.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\bqwgemaj4z-156ivft854.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\j8f89h542q-h294fcf3rh.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\dwsy9mfkb2-3it8bo32j5.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\uzkca97b6m-jts8cng3cg.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\qdkkyxrayp-duiwuw7ozx.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\8v800xob0e-nfiqzeloh7.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\e1dri7mmd7-fist79lz9b.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\344d6d8hdk-mdvaixw9pm.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\m8zpryc40x-q0c3jjzvzk.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\36z6h0l6d9-2k6vqe0yba.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\m7pp9qrrmf-3jj1xdaoc9.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.Up2Date
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\refint\MainServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.pdb
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\ref\MainServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\foeovl5dq3-rs9el84j77.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\yt1vc6acn5-ch4mhxb093.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\web.config
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\MainServer.deps.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\MainServer.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\MainServer.staticwebassets.endpoints.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\publish\web.config
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\publish\appsettings.Development.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\publish\appsettings.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\publish\MainServer.deps.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\publish\MainServer.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\bin\Release\net9.0\publish\publish\MainServer.staticwebassets.endpoints.json
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Дмитрий\Desktop\Курсовой проект\backend\MainServer\MainServer\obj\Release\net9.0\compressed\0e9af1m3f8-fdsgope2vp.gz
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.sourcelink.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\refint\MainServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.pdb
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\appsettings.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.staticwebassets.runtime.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.staticwebassets.endpoints.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.exe
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.deps.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.pdb
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Azure.Core.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Azure.Identity.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Google.Apis.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Google.Apis.Auth.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Google.Apis.Core.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Google.Apis.Drive.v3.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Humanizer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.OpenApi.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Newtonsoft.Json.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.CodeDom.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Convention.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Management.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\SharedLib.dll
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\SharedLib.pdb
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\scopedcss\bundle\MainServer.styles.css
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.Up2Date
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Курсовой проект. Рабочая копия\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\ref\MainServer.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.AssemblyReference.cache
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.AssemblyInfoInputs.cache
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.AssemblyInfo.cs
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.CoreCompileInputs.cache
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.MvcApplicationPartsAssemblyInfo.cs
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.MvcApplicationPartsAssemblyInfo.cache
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.sourcelink.json
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\appsettings.Development.json
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\appsettings.json
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.staticwebassets.runtime.json
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.staticwebassets.endpoints.json
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.exe
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.deps.json
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.runtimeconfig.json
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\MainServer.pdb
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\AutoMapper.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\AWSSDK.Core.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\AWSSDK.S3.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Azure.Core.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Azure.Identity.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Humanizer.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Net.Http.Formatting.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Build.Locator.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Data.SqlClient.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Identity.Client.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.OpenApi.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Microsoft.SqlServer.Server.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Mono.TextTemplating.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Newtonsoft.Json.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Newtonsoft.Json.Bson.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.ClientModel.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.CodeDom.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.AttributedModel.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Convention.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Hosting.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.Runtime.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Composition.TypedParts.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Diagnostics.EventLog.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Linq.Dynamic.Core.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Memory.Data.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\Xabe.FFmpeg.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\SharedLib.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\bin\Release\net9.0\SharedLib.pdb
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\scopedcss\bundle\MainServer.styles.css
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.json
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.development.json
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.csproj.Up2Date
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\refint\MainServer.dll
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.pdb
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\MainServer.genruntimeconfig.cache
+C:\KP\MyVideo\backend\MainServer\MainServer\obj\Release\net9.0\ref\MainServer.dll

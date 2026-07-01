@@ -1,0 +1,634 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #0a0a0a;
+    color: #fff;
+    min-height: 100vh;
+    background-image: radial-gradient(circle at 10% 20%, rgba(138, 43, 226, 0.05) 0%, transparent 30%), radial-gradient(circle at 90% 80%, rgba(255, 0, 0, 0.05) 0%, transparent 30%);
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+/* Шапка */
+.header {
+    background: rgba(15, 15, 15, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 15px 0;
+    border-bottom: 2px solid;
+    border-image: linear-gradient(90deg, #ff0000, #8a2be2) 1;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+/* Логотип */
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 24px;
+    font-weight: 800;
+    color: #ff0000;
+    text-decoration: none;
+    transition: all 0.3s;
+    text-shadow: 0 0 15px rgba(255,0,0,0.3);
+    white-space: nowrap;
+}
+
+    .logo:hover {
+        color: #8a2be2;
+        transform: scale(1.05);
+        text-shadow: 0 0 20px rgba(138,43,226,0.5);
+    }
+
+    .logo i {
+        font-size: 28px;
+        filter: drop-shadow(0 0 8px currentColor);
+    }
+
+/* Поиск */
+.search-container {
+    flex: 1;
+    max-width: 650px;
+}
+
+.search-form {
+    display: flex;
+    gap: 10px;
+    position: relative;
+}
+
+.search-input {
+    flex: 1;
+    padding: 12px 20px;
+    background: #1a1a1a;
+    border: 2px solid #2a2a2a;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 16px;
+    outline: none;
+    transition: all 0.3s;
+}
+
+    .search-input:focus {
+        border-color: #8a2be2;
+        background: #202020;
+        box-shadow: 0 0 0 4px rgba(138, 43, 226, 0.2);
+    }
+
+    .search-input::placeholder {
+        color: #666;
+    }
+
+.search-btn {
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, #8a2be2, #ff0000);
+    border: none;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .search-btn:hover {
+        transform: scale(1.1);
+        box-shadow: 0 0 20px rgba(138,43,226,0.5);
+    }
+
+/* Блок авторизации */
+.auth-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+/* Кнопка загрузки (только для авторизованных) */
+.upload-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: linear-gradient(135deg, #8a2be2, #6a1fb1);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 1px solid rgba(255,255,255,0.1);
+    white-space: nowrap;
+}
+
+    .upload-btn i {
+        font-size: 16px;
+    }
+
+    .upload-btn:hover {
+        background: linear-gradient(135deg, #ff0000, #8a2be2);
+        transform: translateY(-2px);
+        box-shadow: 0 10px 25px -5px rgba(138,43,226,0.5);
+    }
+
+    .upload-btn:active {
+        transform: translateY(0);
+    }
+
+/* Кнопка входа/аккаунта */
+.auth-btn {
+    padding: 10px 24px;
+    background: linear-gradient(135deg, #8a2be2, #4a1d96);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.3s;
+    min-width: 140px;
+    text-align: center;
+    border: 1px solid rgba(255,255,255,0.1);
+    white-space: nowrap;
+}
+
+    .auth-btn:hover {
+        background: linear-gradient(135deg, #ff0000, #8a2be2);
+        transform: translateY(-2px);
+        box-shadow: 0 10px 25px -5px rgba(138,43,226,0.5);
+    }
+
+    .auth-btn:active {
+        transform: translateY(0);
+    }
+
+    /* Стили для авторизованного пользователя */
+    .auth-btn.logged-in {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        gap: 12px !important;
+        padding: 8px 16px 8px 20px !important;
+        background: #1f1f1f !important;
+        border: 2px solid #8a2be2 !important;
+        min-width: 180px !important;
+        transition: all 0.3s !important;
+    }
+
+        .auth-btn.logged-in:hover {
+            border-color: #ff0000 !important;
+            background: #252525 !important;
+            box-shadow: 0 0 20px rgba(138,43,226,0.3) !important;
+        }
+
+        .auth-btn.logged-in .username {
+            color: #fff !important;
+            font-size: 14px !important;
+            font-weight: 500 !important;
+            white-space: nowrap !important;
+            overflow: hidden !important;
+            text-overflow: ellipsis !important;
+            max-width: 100px !important;
+        }
+
+        .auth-btn.logged-in .logout-text {
+            display: flex !important;
+            align-items: center !important;
+            gap: 6px !important;
+            color: #ff4444 !important;
+            font-size: 13px !important;
+            font-weight: 600 !important;
+            padding: 5px 12px !important;
+            border-radius: 30px !important;
+            background: rgba(255, 68, 68, 0.1) !important;
+            transition: all 0.3s !important;
+            border: 1px solid transparent !important;
+        }
+
+            .auth-btn.logged-in .logout-text i {
+                font-size: 12px !important;
+            }
+
+        .auth-btn.logged-in:hover .logout-text {
+            background: #ff4444 !important;
+            color: white !important;
+            border-color: rgba(255,255,255,0.2) !important;
+        }
+
+/* Основной контент */
+.main-content {
+    padding: 40px 0;
+}
+
+/* Сетка видео */
+.videos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+/* Карточка видео */
+.video-card {
+    background: #151515;
+    border-radius: 20px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid #2a2a2a;
+    position: relative;
+}
+
+    .video-card:hover {
+        transform: translateY(-10px) scale(1.02);
+        background: #1f1f1f;
+        border-color: #8a2be2;
+        box-shadow: 0 20px 40px -15px rgba(138, 43, 226, 0.4), 0 0 0 1px #ff0000;
+    }
+
+.video-thumbnail {
+    position: relative;
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+    background: #000;
+}
+
+    .video-thumbnail img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s;
+    }
+
+.video-card:hover .video-thumbnail img {
+    transform: scale(1.1);
+}
+
+.video-thumbnail::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgba(0,0,0,0.4) 0%, transparent 50%);
+    pointer-events: none;
+}
+
+.video-info {
+    padding: 18px;
+}
+
+.video-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: #fff;
+    transition: color 0.3s;
+}
+
+.video-card:hover .video-title {
+    color: #8a2be2;
+}
+
+.video-channel {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    color: #aaa;
+    font-size: 14px;
+}
+
+.channel-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #ff0000, #8a2be2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 13px;
+    color: white;
+    box-shadow: 0 0 15px rgba(138,43,226,0.3);
+}
+
+.video-meta {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #888;
+    font-size: 13px;
+    padding-top: 8px;
+    border-top: 1px solid #2a2a2a;
+}
+
+.upload-date {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+    .upload-date i {
+        font-size: 12px;
+        color: #8a2be2;
+    }
+
+/* Заголовок раздела */
+.section-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg, #ff0000, #8a2be2, transparent);
+    border-radius: 3px;
+}
+
+/* Сообщение при пустом поиске */
+.no-results {
+    text-align: center;
+    padding: 80px 20px;
+    color: #aaa;
+    display: none;
+    background: #151515;
+    border-radius: 30px;
+    border: 1px dashed #8a2be2;
+    margin-top: 30px;
+}
+
+.no-results i {
+    font-size: 60px;
+    color: #8a2be2;
+    margin-bottom: 20px;
+    opacity: 0.5;
+}
+
+.no-results p:first-of-type {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.no-results-hint {
+    font-size: 14px;
+    color: #666;
+}
+
+/* Индикатор загрузки */
+.loading {
+    text-align: center;
+    padding: 60px;
+    color: #aaa;
+    font-size: 16px;
+}
+
+.loading-spinner {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 4px solid rgba(138, 43, 226, 0.2);
+    border-radius: 50%;
+    border-top-color: #ff0000;
+    border-bottom-color: #8a2be2;
+    animation: spin 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) infinite;
+    margin-bottom: 20px;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Сообщения */
+.message-container {
+    position: fixed;
+    top: 80px;
+    right: 30px;
+    z-index: 10000;
+}
+
+.message {
+    background: #1f1f1f;
+    color: white;
+    padding: 15px 25px;
+    margin-bottom: 12px;
+    border-radius: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    animation: slideInRight 0.3s ease;
+    border-left: 4px solid;
+    font-weight: 500;
+    backdrop-filter: blur(10px);
+}
+
+.message-success {
+    background: rgba(138, 43, 226, 0.2);
+    border-left-color: #8a2be2;
+    border: 1px solid rgba(138,43,226,0.3);
+}
+
+.message-error {
+    background: rgba(255, 0, 0, 0.2);
+    border-left-color: #ff0000;
+    border: 1px solid rgba(255,0,0,0.3);
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideOutRight {
+    to {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+}
+
+/* Адаптивность */
+@media (max-width: 1024px) {
+    .header-content {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .logo {
+        font-size: 20px;
+    }
+
+    .search-container {
+        order: 3;
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 0 20px;
+    }
+
+    .auth-container {
+        gap: 8px;
+    }
+
+    .upload-btn span,
+    .auth-btn.logged-in .username {
+        display: none;
+    }
+
+    .upload-btn {
+        padding: 10px 15px;
+    }
+
+    .upload-btn i {
+        margin: 0;
+    }
+
+    .auth-btn.logged-in {
+        min-width: auto !important;
+        padding: 8px 12px !important;
+    }
+
+    .auth-btn.logged-in .logout-text {
+        padding: 5px 10px !important;
+    }
+
+    .auth-btn.logged-in .logout-text span {
+        display: none;
+    }
+
+    .videos-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 20px;
+    }
+
+    .section-title {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo span {
+        display: none;
+    }
+
+    .logo {
+        font-size: 24px;
+    }
+
+    .auth-container {
+        gap: 5px;
+    }
+
+    .upload-btn,
+    .auth-btn {
+        padding: 8px 12px;
+        font-size: 13px;
+    }
+
+    .auth-btn.logged-in .logout-text span {
+        display: none;
+    }
+}
+
+/* Добавьте эти стили в конец файла index.css */
+
+/* Кнопка загрузки (только для авторизованных) */
+.upload-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: linear-gradient(135deg, #8a2be2, #ff0000);
+    border: none;
+    border-radius: 30px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    margin-right: 10px;
+    border: 1px solid rgba(255,255,255,0.1);
+}
+
+    .upload-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 25px -5px rgba(138,43,226,0.5);
+    }
+
+    .upload-btn:active {
+        transform: translateY(0);
+    }
+
+    .upload-btn i {
+        font-size: 16px;
+    }
+
+/* Контейнер для кнопок авторизации */
+.auth-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Адаптив для мобильных */
+@media (max-width: 768px) {
+    .upload-btn span {
+        display: none;
+    }
+
+    .upload-btn {
+        padding: 10px 15px;
+    }
+
+    .upload-btn i {
+        margin: 0;
+    }
+}

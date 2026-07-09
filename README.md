@@ -1,3 +1,23 @@
+# Скриншоты 
+
+### Страница входа:
+<img width="2538" height="1390" alt="image" src="https://github.com/user-attachments/assets/5035f870-6b9c-4cd2-bb86-a11de17fe40d" />
+
+### Страница регистрации:
+<img width="2535" height="1385" alt="image" src="https://github.com/user-attachments/assets/db27a9b1-51bb-444e-b596-4da5fb9e6596" />
+
+### Главная:
+<img width="2558" height="1390" alt="image" src="https://github.com/user-attachments/assets/66715b50-2be0-49f5-a475-07c6c9282f78" />
+
+### Страница загрузки:
+<img width="2558" height="1391" alt="image" src="https://github.com/user-attachments/assets/ce5f67d4-f622-4fb7-bf83-6896703ae733" />
+
+### Страница видео:
+<img width="2540" height="1391" alt="image" src="https://github.com/user-attachments/assets/55bbb809-b8a5-4cac-b8ec-7bf403212a54" />
+
+
+
+
 # 📖 Инструкция по развертыванию проекта VideohostingExpress
 
 ## 🚀 Быстрый старт
